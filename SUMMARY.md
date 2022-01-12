@@ -36,3 +36,10 @@
 
 * [6. 一切皆可搜索](group-4/6.-yi-qie-jie-ke-sou-suo.md)
 * [695. Max Area of Island (Medium)](group-4/695.-max-area-of-island-medium.md)
+* [Page 1](group-4/page-1.md)
+* [Page 2](group-4/page-2.md)
+
+## Group 5
+
+* [7. 深入浅出动态规划](group-5/7.-shen-ru-qian-chu-dong-tai-gui-hua.md)
+* [70. Climbing Stairs(Easy)](group-5/70.-climbing-stairs-easy.md)
