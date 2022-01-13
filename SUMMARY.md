@@ -43,3 +43,4 @@
 
 * [7. 深入浅出动态规划](group-5/7.-shen-ru-qian-chu-dong-tai-gui-hua.md)
 * [70. Climbing Stairs(Easy)](group-5/70.-climbing-stairs-easy.md)
+* [198. House Robber (Easy)](group-5/198.-house-robber-easy.md)
