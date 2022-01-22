@@ -44,4 +44,6 @@
 * [7. 深入浅出动态规划](group-5/7.-shen-ru-qian-chu-dong-tai-gui-hua.md)
 * [70. Climbing Stairs(Easy)](group-5/70.-climbing-stairs-easy.md)
 * [198. House Robber (Easy)](group-5/198.-house-robber-easy.md)
-* [Page 3](group-5/page-3.md)
+* [413. Arithmetic Slices (Medium)](group-5/413.-arithmetic-slices-medium.md)
+* [64. Minimum Path Sum (Medium)](group-5/64.-minimum-path-sum-medium.md)
+* [542. 01 Matrix (Medium)](group-5/542.-01-matrix-medium.md)
